@@ -1,3 +1,3 @@
-# Algorithms
+# Python Leetcode
 
-Python implementation of algorithms.
+Python implementation of leetcode problems.
